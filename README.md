@@ -1,2 +1,2 @@
-# coursera-HTML
+# coursera
 Coursera HTML.CSS
